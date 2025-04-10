@@ -66,3 +66,8 @@
 #     print ("condicao complexa atendida.")      # 1- not 
 # else:                                           # 2- and
 #     print ("condição nao atendida")            # 3- or 
+
+
+
+
+
